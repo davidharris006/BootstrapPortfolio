@@ -1,0 +1,46 @@
+.bg {
+    background-image:url("./Images/abstract-background-bright-207130.jpg");
+    background-size: cover;
+
+}
+.topbar-edits {
+   background-color: rgb(139, 211, 255, 0.65);
+    z-index: 5;
+}
+
+.div-bars1 {
+    width: 200px;
+    height: 20px;
+    background-color:rgb(139, 211, 255); 
+    text-align: center;
+    color: rgb(4, 55, 87);
+    margin-top: 10px;
+}
+.flex-pictures {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-image:  url("./Images/portfoliopic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    
+}
+h2 {
+    color: rgb(4, 55, 87);
+    font-family: 'Fjalla One', sans-serif;
+}
+p {
+    color: rgb(4, 55, 87);
+    font-family: 'Fjalla One', sans-serif;
+}
+a {
+    font-family: 'Fjalla One', sans-serif;
+}
